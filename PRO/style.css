@@ -1,0 +1,19 @@
+body {
+    background-color: blue;
+    margin: 0px;
+}
+
+div.top {
+    display: flex;
+    align-items: flex-start;
+    background-color: rgb(125, 125, 233);
+}
+
+a {
+    color: brown;
+    text-decoration: none;
+}
+
+nav {
+    background-color: aqua;
+}
