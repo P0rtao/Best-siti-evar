@@ -3,7 +3,7 @@
 </h1>
 
 <p style="size: 20px;">
-    Everything;<br>
+    Everything
     Pages
     Links
     NavBar
