@@ -3,10 +3,10 @@
 </h1>
 
 <p style="size: 20px;">
-    Everything
-    Pages
-    Links
-    NavBar
-    All that sorta stuff
-    Oh also like and subcribe
+    Everything<br>
+    Pages<br>
+    Links<br>
+    NavBar<br>
+    All that sorta stuff<br>
+    Oh also like and subcribe<br>
 </p>
