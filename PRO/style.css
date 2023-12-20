@@ -3,7 +3,7 @@ body {
     margin: 0px;
 }
 
-.mainh1 {
+.mainheader {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 50px;
     color: rgb(134, 184, 228);
@@ -16,12 +16,42 @@ body {
     background-image: url("images/fire.gif");
 }
 
-a {
+nav a {
     font-family: system-ui, Verdana, Geneva, Tahoma, sans-serif;
-    color: black;
+    color: white;
+    padding: 5px 10px;
     text-decoration: none;
+}
+
+nav a:hover {
+    background-color: aqua;
+    color: black;
+    text-decoration: wavy;
 }
 
 nav {
     background-color: blue;
+    padding: 5px 0px;
+}
+
+h2 {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+p {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+img {
+    width: 30%;
+    border-radius: 50%;
+    transition: all ease 1s;
+}
+
+img:hover {
+    transform: rotate(360deg);
 }
