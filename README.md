@@ -3,10 +3,7 @@
 </h1>
 
 <p style="size: 20px;">
-    Everything<br>
-    Pages<br>
-    Links<br>
-    NavBar<br>
-    All that sorta stuff<br>
-    Oh also like and subcribe<br>
+    Different Pages<br>
+    Finish main page<br>
+    Possible youtube redirect?????<br>
 </p>
