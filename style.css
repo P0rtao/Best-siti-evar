@@ -14,7 +14,6 @@ body {
 
 .top {
     display: flex;
-    padding: 30px;
     background-image: url("images/fire.gif");
 }
 
