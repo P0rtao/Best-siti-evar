@@ -3,7 +3,5 @@
 </h1>
 
 <p style="size: 20px;">
-    Different Pages<br>
-    Finish main page<br>
-    Possible youtube redirect?????<br>
+    Ill think of something eventually
 </p>
