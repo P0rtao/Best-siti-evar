@@ -1,7 +1,7 @@
 <h1 style="size: 40px; font-family: Verdana, Geneva, Tahoma, sans-serif;">
-    Things I need to do still:
+    Hey Guys
 </h1>
 
 <p style="size: 20px;">
-    Ill think of something eventually
+    I think Im done like and subscribe
 </p>
